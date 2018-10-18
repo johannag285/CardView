@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicação de música</string>
+    <string name="action_settings">Configuração</string>
+    <string name="action_add_favourite">Adicionar aos favoritos</string>
+    <string name="action_play_next">Próxima música</string>
+    <string name="backdrop_title">Música para o momento</string>
+    <string name="backdrop_subtitle">Os melhores 20</string>
+    <string name="album1">"Romance verdadeiro "</string>
+    <string name="album2">Xscape</string>
+    <string name="album3">"Maroon 5 "</string>
+    <string name="album4">"Nascido para morrer "</string>
+    <string name="album5">"Lua de mel "</string>
+    <string name="album6">"Eu preciso de um doutor "</string>
+    <string name="album7">Alto</string>
+    <string name="album8">"lenda "</string>
+    <string name="album9">"Olá "</string>
+    <string name="album10">"Maiores sucessos "</string>
+    <string name="albumCamila">Camila</string>
+    <string name="albumLorde">Pure Heroine</string>
+    <string name="descripcion1">Álbum criado em 2014 letras originais por charlie XCX, contém canções como menino, clap boom</string>
+    <string name="descripcion2">Álbum criado em 2002 por Michael Jackson inclui músicas como Triller</string>
+    <string name="descripcion3">Álbum criado em 2013 pela banda Maroon 5, o vocalista é Adam Levine reconhecido por sua voz estridente</string>
+    <string name="descripcion4">Álbum criado em 2015 por Lana Mamasita Del Rey tem músicas muito boas como Born to die, Serial killer, tristeza de verão</string>
+    <string name="descripcion5">Álbum criado por Lana del Rey em 2016 tem músicas como Honeymoon e ama as músicas de estreia do cantor</string>
+    <string name="descripcion6">Álbum criado pelo cantor Eminem reconhecido por sua habilidade de rap e também conhecido pelos duetos que faz com outros cantores</string>
+    <string name="descripcion7">Álbum criado por Rihanna com algumas músicas criadas pela cantora Sia, inclui músicas como Diamonds e qual meu nome</string>
+    <string name="descripcion8">Álbum criado em 1997 pelo cantor Bob Marley reconhecido no gênero de Reggae por suas letras e significado de sua música</string>
+    <string name="descripcion9">Álbum criado por Adele em 2014 é um álbum de estréia bem conhecido por suas músicas como são, alguém como você, quando éramos jovens</string>
+    <string name="descripcion10">Os sucessos musicais mais reconhecidos deste mês</string>
+    <string name="descripcionCamila">Álbum criado pela cantora Camila Cabello em 2018 é atualmente um álbum de estréia na indústria da música com canções bem conhecidas</string>
+    <string name="clicSeleccionado">Clique em Selecionado:</string>
+    <string name="descripcionLorde">Álbum criado pelo melhor cantor do mundo Lorde com músicas como Buzzcut Season e Royal</string>
+    <string name="canciones">Músicas</string>
+    <string name="favoritos">Adicionar aos favoritos</string>
+    <string name="siguiente">Próxima música</string>
+    <string name="descripcion">Descrição:</string>
+</resources>

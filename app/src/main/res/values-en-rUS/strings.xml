@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Music application</string>
+    <string name="action_settings">Configuration</string>
+    <string name="action_add_favourite">Add to Favorites</string>
+    <string name="action_play_next">Next song</string>
+    <string name="backdrop_title">Music for the moment</string>
+    <string name="backdrop_subtitle">The best 20</string>
+    <string name="album1">True Romance</string>
+    <string name="album2">Xscpae</string>
+    <string name="album3">Maroon 5</string>
+    <string name="album4">Born to Die</string>
+    <string name="album5">Honeymoon</string>
+    <string name="album6">I Need a Doctor</string>
+    <string name="album7">Loud</string>
+    <string name="album8">Legend</string>
+    <string name="album9">Hello</string>
+    <string name="album10">Greatest Hits</string>
+    <string name="albumCamila">Camila</string>
+    <string name="albumLorde">Pure Heroine</string>
+    <string name="descripcion1">Album created in 2014 original lyrics by charlie XCX, contains songs like boy, boom clap</string>
+    <string name="descripcion2">Album created in 2002 original lyrics by Michael Jackson includes songs like Triller</string>
+    <string name="descripcion3">Album created in 2013 by the band Maroon 5 the lead singer is Adam Levine recognized for his high-pitched voice</string>
+    <string name="descripcion4">Album created in 2015 by Lana Mamasita Del Rey has very good songs like Born to die, Serial killer, Summer time sadness</string>
+    <string name="descripcion5">Album created by Lana del Rey in 2016 has songs like Honeymoon and love the singer debut songs</string>
+    <string name="descripcion6">Album created by the singer Eminem recognized for his ability to rap and also known for the duets he makes with other singers</string>
+    <string name="descripcion7">Album created by Rihanna with some songs created by the singer Sia, includes songs like Diamonds and what my name</string>
+    <string name="descripcion8">Album created in 1997 by the singer Bob Marley singer recognized in the genre of Reggae for his lyrics and meaning of his music</string>
+    <string name="descripcion9">Album created by Adele e 2014 is a debut album well known for its songs as they are, someone like you, when were we young</string>
+    <string name="descripcion10">The most recognized musical hits of this month</string>
+    <string name="descripcionCamila">Album created by the singer Camila Cabello in 2018 is currently a debut album in the music industry with well-known songs</string>
+    <string name="descripcionLorde">Album created by the best singer in the world Lorde with songs such as Buzzcut Season and Royal</string>
+    <string name="clicSeleccionado">Click Selected: </string>
+    <string name="canciones">Songs</string>
+    <string name="favoritos">Add to Favorites</string>
+    <string name="siguiente">Next song</string>
+    <string name="descripcion">Description: </string>
+</resources>
